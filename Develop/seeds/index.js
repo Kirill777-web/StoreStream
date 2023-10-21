@@ -10,9 +10,9 @@ const sequelize = require('../config/connection');
 
 const seedAll = async () => {
   // manual table drop to avoid foreign key constraints
-  await sequelize.query('DROP TABLE IF EXISTS product_tags');
-  await sequelize.query('DROP TABLE IF EXISTS products');
-  await sequelize.query('DROP TABLE IF EXISTS tags');
+  await sequelize.query('DROP TABLE IF EXISTS product_tag');
+  await sequelize.query('DROP TABLE IF EXISTS product');
+  await sequelize.query('DROP TABLE IF EXISTS tag');
   await sequelize.query('DROP TABLE IF EXISTS category');
 
   await sequelize.sync({ force: true });
