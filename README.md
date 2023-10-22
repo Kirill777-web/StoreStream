@@ -19,6 +19,7 @@ This E-commerce StoreStream your simple, intuitive e-commerce backend solution. 
 - [Seeding](#seeding)
 - [Credits](#credits)
 - [Links](#links)
+- [License](#license)
 
 ## Features
 
