@@ -82,7 +82,8 @@ npm run seed
 ## **Links**
 
 - This is the link of my [GitHub repository](https://github.com/Kirill777-web/StoreStream)
-- Link of Screenrecorder [Screencastify]()
+- Link of Screenrecorder the technical acceptance and GET,PUT,DELETE [Screencastify](https://drive.google.com/file/d/1lBj7nmKOkYVypYXVqaGHNWLZG07LSmgo/view)
+- Link of Screenrecorder of created schema from the MySQL shell and Insomnia Demo [Screencastify](https://drive.google.com/file/d/1w5uUyGz-ihGNk8tRK2hRZYpEsrL49hCE/view)
 
 ## License
 
